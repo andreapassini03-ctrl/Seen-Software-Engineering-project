@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Progetto_software" parent="Theme.Progetto_software">
+
+    </style>
+
+    <style name="Theme.Progetto_software" parent="Base.Theme.Progetto_software" />
+</resources>
