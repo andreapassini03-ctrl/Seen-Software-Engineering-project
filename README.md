@@ -1,5 +1,5 @@
 # Seen-Software-Engineering-project
-"Seen - Film & TV Series Tracker" - un'app per gestire e recensire film e serie TV - Progetto Software completo - Requisiti - Analisi - Progettazione
+"Seen - Film & TV Series Tracker" - un'app Android per gestire e recensire film e serie TV - Progetto Software completo - Requisiti - Analisi - Progettazione
 
 ## Documentazione
 
