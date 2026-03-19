@@ -5,15 +5,15 @@
 
 Questo progetto include la documentazione completa del processo di sviluppo software:
 
-## 🔗 Repository
-
-[GitHub Repository](https://github.com/andreapassini03-ctrl/Seen-Software-Engineering-project)
-
 - **Requisiti**: Analisi dei requisiti funzionali e non funzionali
 - **Analisi**: Studio del dominio e dei casi d'uso
 - **Progettazione**: Architettura e design dell'applicazione
 
 [Progettazione Software.pdf](./Progettazione%20Software.pdf)
+
+## 🔗 Repository
+
+[GitHub Repository](https://github.com/andreapassini03-ctrl/Seen-Software-Engineering-project)
 
 ## Funzionalità
 
